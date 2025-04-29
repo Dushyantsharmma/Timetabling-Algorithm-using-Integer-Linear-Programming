@@ -1,5 +1,4 @@
 # Timetabling-Algorithm-using-Integer-Linear-Programming
-# Timetabling Algorithm using Integer Linear Programming
 
 ## University Timetabling Optimization using Integer Linear Programming (ILP)
 
